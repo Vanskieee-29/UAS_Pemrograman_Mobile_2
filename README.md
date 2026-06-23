@@ -102,5 +102,6 @@ MyKeuangan 2.0 dikembangkan untuk membantu pengguna dalam:
 
 Dikembangkan sebagai proyek pengembangan aplikasi Android dengan fokus pada manajemen keuangan pribadi, visualisasi data keuangan, dan pengalaman pengguna yang lebih baik melalui fitur analisis serta dukungan multi-bahasa.
 
+<img width="1919" height="1089" alt="image" src="https://github.com/user-attachments/assets/a8abf038-8393-468e-a2ba-3fa8451a1051" />
 <img width="1160" height="344" alt="Screenshot 2026-06-23 151321" src="https://github.com/user-attachments/assets/5a32d5ed-f5cf-4b80-b067-b5e13448af6a" />
 <img width="1231" height="798" alt="Screenshot 2026-06-23 151353" src="https://github.com/user-attachments/assets/8b4fcf74-4bd0-4bd1-ae69-b1b1a0d5a134" />
